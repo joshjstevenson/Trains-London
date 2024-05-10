@@ -1,0 +1,79 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: #FF4800;
+}
+
+.mainText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    margin-top: 25vh;
+    margin-left: 83px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-input {
+    border: 2px solid #FF4800;
+    width: 200px;
+    height: 40px;
+    margin-left: 180px;
+    margin-top: 45px;
+    border-radius: 1px;
+    text-align: center;
+    display: block;
+}
+
+button {
+    box-sizing: border-box;
+    width: 100px;
+    height: 40px;
+    margin-left: 288px;
+    background-color: transparent;
+    color: #FF4800;
+    border: solid 2px #FF4800;
+    border-radius: 1px;
+    display: block;
+  }
+
+  button:active {
+    background-color: #FF4800;
+    color: black;
+    border: none;
+}
+
+::placeholder {
+    color: #FF4800;
+}
+
+.searchBox {
+    flex: 0 0 auto;
+    border: 2px solid transparent;
+    border-radius: 1px;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+
+.informationBox {
+    flex: 0 0 auto;
+    border: 2px solid #FF4800;
+    border-radius: 1px;
+    width: 425px;
+    height: 200px;
+    margin: 10px;
+}
+
+.message {
+    font-size: 5pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 710px;
+}

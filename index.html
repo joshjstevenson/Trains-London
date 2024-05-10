@@ -1,11 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <script src="trains-information.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Train Times London</title>
 </head>
-<body>
+
+    <mainText class="mainText">
+    <h1>LONDON TRAINS | ESTIMATED ARRIVALS</h1>
+    </mainText>
+
+<content class="content">
+
+<searchBox class="searchBox">
+
+    <searchForm class="searchForm">
+        <label for="station"></label> 
+        <input type="text" class="custom-input" id="station" name="station" placeholder="SEARCH STATIONS"><br>
+     </searchForm>
+
+    <button type="button" id="searchBtn" onclick="" aria-label="search station button">FIND TIMES</button>
+
+</searchBox>
+
+
+    <informationBox class="informationBox">
+
+
+    </informationBox>
+
     
-</body>
+</content>
+
+<message class="message">
+    <h2>times auto-update every 30s</h2>
+</message>
+
 </html>
+
+
