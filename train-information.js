@@ -1,3 +1,5 @@
+/**
+this is currently just a note
 
 function callStation(location) {
     const response = fetch(`https://api.tfl.gov.uk/Line/${location}/Arrivals`, {
@@ -14,3 +16,5 @@ function callStation(location) {
 
     return response;
 }
+
+**/
