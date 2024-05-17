@@ -21,9 +21,9 @@
 
 .custom-input {
     border: 2px solid #FF4800;
-    width: 200px;
+    width: 230px;
     height: 40px;
-    margin-left: 180px;
+    margin-left: 155px;
     margin-top: 45px;
     border-radius: 1px;
     text-align: center;
@@ -37,9 +37,9 @@
 
 button {
     box-sizing: border-box;
-    width: 208px;
+    width: 238px;
     height: 40px;
-    margin-left: 180px;
+    margin-left: 155px;
     background-color: transparent;
     color: #FF4800;
     border: solid 2px #FF4800;
