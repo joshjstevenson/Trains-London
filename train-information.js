@@ -534,9 +534,13 @@ HUBZWL,Whitechapel,2,HUBZWL,FALSE,HUBZWL-Outside,False,,False,,,,,
         return formedArr;
       }
 
-// 'stationObjects' variable stores output from csvToArr function.
+// Storing our station objects.
 const stationObjects = csvToArr(csvFile, ',');
-console.log(stationObjects);
+// console.log(stationObjects);
+
+
+
+//------------------------------------------------------------------------
 
 
 
@@ -546,7 +550,12 @@ console.log(stationObjects);
  * an API request; station ID and line. If no match is found, throw an error.
  */
 
-// formatting user input to ensure the strings match the format of the object values.
+// Station name; user searched for.
+// Station UniqueId; based on user search.
+let userInput = '';
+let stationId = '';
+
+// function to format user input, ensuring2 the strings match the format of the object values.
 function formatInput() {
     const inputElement = document.getElementById('station');
     const inputValue = inputElement.value;
@@ -555,10 +564,58 @@ function formatInput() {
     const formattedValue = inputValue.replace(/\b\w/g, char => char.toUpperCase());
 
     // Update the input field value with the formatted value.
-    inputElement.value = station;
+    userInput = inputElement.value;
   }
 
-// use formatInput() when pull user data to search object values for station name... then pull ID and station
+// Search stationObjects array with userInput for the corresponding station's UniqueId.
+function findUserInput() {
+    const result = stationObjects.find(obj => obj.Name === userInput);
+    if (result) {
+        stationId = result.UniqueId;
+        console.log(stationId);
+    } else {
+        console.log('Error: No matching object found');
+    }
+}
+  
+
+// Use functions 'formatInput()' and 'findUserInput()' in connection with the HTML form and button.
+// Append API request with stationID.
+function submitSearch() {
+    // Update variables: userInput & stationId.
+    formatInput();
+    findUserInput();
+
+    const response = fetch(`https://api.tfl.gov.uk/Line/${??????}/Arrivals/${stationId}?direction=all&app_id={{app_id}}&app_key=fe96f0290c804e9b93203a34f4e3fb2c`, {
+            method: 'GET',
+            // Request headers
+            headers: {
+                'Cache-Control': 'no-cache',}
+        })
+        .then(response => {
+            console.log(response.status);
+            console.log(response.text());
+        })
+        .catch(err => console.error(err));
+
+    return response;
+
+
+
+
+}
+
+
+
+
+
+
+//button onclick
+//function to update userInput using formatInput()
+//use updated input string in searchStationByName()
+
+
+
 
 
 
