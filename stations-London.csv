@@ -1,0 +1,494 @@
+name,line,naptanId
+Abbey Road,dlr,940GZZDLABR
+Acton Central,london-overground,910GACTNCTL
+Acton Main Line,tfl-rail,910GACTONML
+Acton Town,"district, piccadilly",940GZZLUACT
+Addington Village,tram,940GZZCRADV
+Addiscombe,tram,940GZZCRADD
+Aldgate East,"district, hammersmith-city",940GZZLUADE
+Aldgate,"circle, metropolitan",940GZZLUALD
+All Saints,dlr,940GZZDLALL
+Alperton,piccadilly,940GZZLUALP
+Amersham,metropolitan,940GZZLUAMS
+Ampere Way,tram,940GZZCRAMP
+Anerley,london-overground,910GANERLEY
+Angel,northern,940GZZLUAGL
+Archway,northern,940GZZLUACY
+Arena,tram,940GZZCRARA
+Arnos Grove,piccadilly,940GZZLUASG
+Arsenal,piccadilly,940GZZLUASL
+Avenue Road,tram,940GZZCRAVE
+Baker Street,"bakerloo, circle, hammersmith-city, jubilee, metropolitan",940GZZLUBST
+Balham,northern,940GZZLUBLM
+Bank,dlr,940GZZDLBNK
+Bank,"central, northern, waterloo-city",940GZZLUBNK
+Barbican,"circle, hammersmith-city, metropolitan",940GZZLUBBN
+Barking,london-overground,910GBARKING
+Barking,"district, hammersmith-city",940GZZLUBKG
+Barkingside,central,940GZZLUBKE
+Barons Court,"district, piccadilly",940GZZLUBSC
+Bayswater,"circle, district",940GZZLUBWT
+Beckenham Junction,tram,940GZZCRBEK
+Beckenham Road,tram,940GZZCRBRD
+Beckton,dlr,940GZZDLBEC
+Beckton Park,dlr,940GZZDLBPK
+Becontree,district,940GZZLUBEC
+Beddington Lane,tram,940GZZCRBED
+Belgrave Walk,tram,940GZZCRBGV
+Belsize Park,northern,940GZZLUBZP
+Bermondsey,jubilee,940GZZLUBMY
+Bethnal Green,london-overground,910GBTHNLGR
+Bethnal Green,central,940GZZLUBLG
+Birkbeck,tram,940GZZCRBIR
+Blackfriars,"circle, district",940GZZLUBKF
+Blackhorse Lane,tram,940GZZCRBLA
+Blackhorse Road,london-overground,910GBLCHSRD
+Blackhorse Road,victoria,940GZZLUBLR
+Blackwall,dlr,940GZZDLBLA
+Bond Street,"central, jubilee",940GZZLUBND
+Borough,northern,940GZZLUBOR
+Boston Manor,piccadilly,940GZZLUBOS
+Bounds Green,piccadilly,940GZZLUBDS
+Bow Church,dlr,940GZZDLBOW
+Bow Road,"district, hammersmith-city",940GZZLUBWR
+Brent Cross,northern,940GZZLUBTX
+Brentwood,tfl-rail,910GBRTWOOD
+Brixton,victoria,940GZZLUBXN
+Brockley,london-overground,910GBROCKLY
+Bromley-by-Bow,"district, hammersmith-city",940GZZLUBBB
+Brondesbury Park,london-overground,910GBRBYPK
+Brondesbury,london-overground,910GBRBY
+Bruce Grove,london-overground,910GBRUCGRV
+Buckhurst Hill,central,940GZZLUBKH
+Burnham (Berks),tfl-rail,910GBNHAM
+Burnt Oak,northern,940GZZLUBTK
+Bush Hill Park,london-overground,910GBHILLPK
+Bushey,london-overground,910GBUSHYDC
+Caledonian Road & Barnsbury,london-overground,910GCLDNNRB
+Caledonian Road,piccadilly,940GZZLUCAR
+Cambridge Heath (London),london-overground,910GCAMHTH
+Camden Road,london-overground,910GCMDNRD
+Camden Town,northern,940GZZLUCTN
+Canada Water,london-overground,910GCNDAW
+Canada Water,jubilee,940GZZLUCWR
+Canary Wharf,dlr,940GZZDLCAN
+Canary Wharf,jubilee,940GZZLUCYF
+Canning Town,dlr,940GZZDLCGT
+Canning Town,jubilee,940GZZLUCGT
+Cannon Street,"circle, district",940GZZLUCST
+Canonbury,london-overground,910GCNNB
+Canons Park,jubilee,940GZZLUCPK
+Carpenders Park,london-overground,910GCRPNDPK
+Centrale,tram,940GZZCRCTR
+Chadwell Heath,tfl-rail,910GCHDWLHT
+Chalfont & Latimer,metropolitan,940GZZLUCAL
+Chalk Farm,northern,940GZZLUCFM
+Chancery Lane,central,940GZZLUCHL
+Charing Cross,"bakerloo, northern",940GZZLUCHX
+Chesham,metropolitan,940GZZLUCSM
+Cheshunt,london-overground,910GCHESHNT
+Chigwell,central,940GZZLUCWL
+Chingford,london-overground,910GCHINGFD
+Chiswick Park,district,940GZZLUCWP
+Chorleywood,metropolitan,940GZZLUCYD
+Church Street,tram,940GZZCRCHR
+Clapham Common,northern,940GZZLUCPC
+Clapham High Street,london-overground,910GCLPHHS
+Clapham Junction,london-overground,910GCLPHMJC
+Clapham North,northern,940GZZLUCPN
+Clapham South,northern,940GZZLUCPS
+Clapton,london-overground,910GCLAPTON
+Cockfosters,piccadilly,940GZZLUCKS
+Colindale,northern,940GZZLUCND
+Colliers Wood,northern,940GZZLUCSD
+Coombe Lane,tram,940GZZCRCOO
+Covent Garden,piccadilly,940GZZLUCGN
+Crossharbour,dlr,940GZZDLCLA
+Crouch Hill,london-overground,910GCROUCHH
+Croxley,metropolitan,940GZZLUCXY
+Crystal Palace,london-overground,910GCRYSTLP
+Custom House (for ExCel),dlr,940GZZDLCUS
+Cutty Sark (for Maritime Greenwich),dlr,940GZZDLCUT
+Cyprus,dlr,940GZZDLCYP
+Dagenham East,district,940GZZLUDGE
+Dagenham Heathway,district,940GZZLUDGY
+Dalston Junction,london-overground,910GDALS
+Dalston Kingsland,london-overground,910GDALSKLD
+Debden,central,940GZZLUDBN
+Denmark Hill,london-overground,910GDENMRKH
+Deptford Bridge,dlr,940GZZDLDEP
+Devons Road,dlr,940GZZDLDEV
+Dollis Hill,jubilee,940GZZLUDOH
+Dundonald Road,tram,940GZZCRDDR
+Ealing Broadway,tfl-rail,910GEALINGB
+Ealing Broadway,"central, district",940GZZLUEBY
+Ealing Common,"district, piccadilly",940GZZLUECM
+Earl's Court,"district, piccadilly",940GZZLUECT
+East Acton,central,940GZZLUEAN
+East Croydon,tram,940GZZCRECR
+East Finchley,northern,940GZZLUEFY
+East Ham,"district, hammersmith-city",940GZZLUEHM
+East India,dlr,940GZZDLEIN
+East Putney,district,940GZZLUEPY
+Eastcote,"metropolitan, piccadilly",940GZZLUEAE
+Edgware Road (Bakerloo),bakerloo,940GZZLUERB
+Edgware Road (Circle Line),"circle, district, hammersmith-city",940GZZLUERC
+Edgware,northern,940GZZLUEGW
+Edmonton Green,london-overground,910GEDMNGRN
+Elephant & Castle,"bakerloo, northern",940GZZLUEAC
+Elm Park,district,940GZZLUEPK
+Elmers End,tram,940GZZCRELM
+Elverson Road,dlr,940GZZDLELV
+Embankment,"bakerloo, circle, district, northern",940GZZLUEMB
+Emerson Park,london-overground,910GEMRSPKH
+Enfield Town,london-overground,910GENFLDTN
+Epping,central,940GZZLUEPG
+Euston Square,"circle, hammersmith-city, metropolitan",940GZZLUESQ
+Euston,"northern, victoria",940GZZLUEUS
+Fairlop,central,940GZZLUFLP
+Farringdon,"circle, hammersmith-city, metropolitan",940GZZLUFCN
+Fieldway,tram,940GZZCRFLD
+Finchley Central,northern,940GZZLUFYC
+Finchley Road & Frognal,london-overground,910GFNCHLYR
+Finchley Road,"jubilee, metropolitan",940GZZLUFYR
+Finsbury Park,"piccadilly, victoria",940GZZLUFPK
+Forest Gate,tfl-rail,910GFRSTGT
+Forest Hill,london-overground,910GFORESTH
+Fulham Broadway,district,940GZZLUFBY
+Gallions Reach,dlr,940GZZDLGAL
+Gants Hill,central,940GZZLUGTH
+George Street,tram,940GZZCRCEN
+Gidea Park,tfl-rail,910GGIDEAPK
+Gloucester Road,"circle, district, piccadilly",940GZZLUGTR
+Golders Green,northern,940GZZLUGGN
+Goldhawk Road,"circle, hammersmith-city",940GZZLUGHK
+Goodge Street,northern,940GZZLUGDG
+Goodmayes,tfl-rail,910GGODMAYS
+Gospel Oak,london-overground,910GGOSPLOK
+Grange Hill,central,940GZZLUGGH
+Gravel Hill,tram,940GZZCRGRA
+Great Portland Street,"circle, hammersmith-city, metropolitan",940GZZLUGPS
+Green Park,"jubilee, piccadilly, victoria",940GZZLUGPK
+Greenford,central,940GZZLUGFD
+Greenwich,dlr,940GZZDLGRE
+Gunnersbury,london-overground,910GGNRSBRY
+Gunnersbury,district,940GZZLUGBY
+Hackney Central,london-overground,910GHACKNYC
+Hackney Downs,london-overground,910GHAKNYNM
+Hackney Wick,london-overground,910GHACKNYW
+Haggerston,london-overground,910GHAGGERS
+Hainault,central,940GZZLUHLT
+Hammersmith (Dist&Picc Line),"district, piccadilly",940GZZLUHSD
+Hammersmith (H&C Line),"circle, hammersmith-city",940GZZLUHSC
+Hampstead Heath,london-overground,910GHMPSTDH
+Hampstead,northern,940GZZLUHTD
+Hanger Lane,central,940GZZLUHGR
+Hanwell,tfl-rail,910GHANWELL
+Harlesden,london-overground,910GHARLSDN
+Harlesden,bakerloo,940GZZLUHSN
+Harold Wood,tfl-rail,910GHRLDWOD
+Harringay Green Lanes,london-overground,910GHRGYGL
+Harrington Road,tram,940GZZCRHAR
+Harrow & Wealdstone,london-overground,910GHROW
+Harrow & Wealdstone,bakerloo,940GZZLUHAW
+Harrow-on-the-Hill,metropolitan,940GZZLUHOH
+Hatch End,london-overground,910GHTCHEND
+Hatton Cross,piccadilly,940GZZLUHNX
+Hayes & Harlington,tfl-rail,910GHAYESAH
+Headstone Lane,london-overground,910GHEDSTNL
+Heathrow Terminal 4,tfl-rail,910GHTRWTM4
+Heathrow Terminal 5,piccadilly,940GZZLUHR5
+Heathrow Terminals 2 & 3,tfl-rail,910GHTRWAPT
+Heathrow Terminals 2 & 3,piccadilly,940GZZLUHRC
+Hendon Central,northern,940GZZLUHCL
+Heron Quays,dlr,940GZZDLHEQ
+High Barnet,northern,940GZZLUHBT
+High Street Kensington,"circle, district",940GZZLUHSK
+Highams Park,london-overground,910GHGHMSPK
+Highbury & Islington,london-overground,910GHGHI
+Highbury & Islington,victoria,940GZZLUHAI
+Highgate,northern,940GZZLUHGT
+Hillingdon,"metropolitan, piccadilly",940GZZLUHGD
+Holborn,"central, piccadilly",940GZZLUHBN
+Holland Park,central,940GZZLUHPK
+Holloway Road,piccadilly,940GZZLUHWY
+Homerton,london-overground,910GHOMRTON
+Honor Oak Park,london-overground,910GHONROPK
+Hornchurch,district,940GZZLUHCH
+Hounslow Central,piccadilly,940GZZLUHWC
+Hounslow East,piccadilly,940GZZLUHWE
+Hounslow West,piccadilly,940GZZLUHWT
+Hoxton,london-overground,910GHOXTON
+Hyde Park Corner,piccadilly,940GZZLUHPC
+Ickenham,"metropolitan, piccadilly",940GZZLUICK
+Ilford,tfl-rail,910GILFORD
+Imperial Wharf,london-overground,910GCSEAH
+Island Gardens,dlr,940GZZDLISL
+Iver,tfl-rail,910GIVER
+Kennington,northern,940GZZLUKNG
+Kensal Green,london-overground,910GKENSLG
+Kensal Green,bakerloo,940GZZLUKSL
+Kensal Rise,london-overground,910GKENR
+Kensington (Olympia),london-overground,910GKENOLYM
+Kensington (Olympia),district,940GZZLUKOY
+Kentish Town,northern,940GZZLUKSH
+Kentish Town West,london-overground,910GKNTSHTW
+Kenton,london-overground,910GKTON
+Kenton,bakerloo,940GZZLUKEN
+Kew Gardens,london-overground,910GKEWGRDN
+Kew Gardens,district,940GZZLUKWG
+Kilburn High Road,london-overground,910GKLBRNHR
+Kilburn Park,bakerloo,940GZZLUKPK
+Kilburn,jubilee,940GZZLUKBN
+King George V,dlr,940GZZDLKGV
+King Henry's Drive,tram,940GZZCRKGH
+King's Cross St Pancras,"circle, hammersmith-city, metropolitan, northern, piccadilly, victoria",940GZZLUKSX
+Kingsbury,jubilee,940GZZLUKBY
+Knightsbridge,piccadilly,940GZZLUKNB
+Ladbroke Grove,"circle, hammersmith-city",940GZZLULAD
+Lambeth North,bakerloo,940GZZLULBN
+Lancaster Gate,central,940GZZLULGT
+Langdon Park,dlr,940GZZDLLDP
+Langley (Berks),tfl-rail,910GLANGLEY
+Latimer Road,"circle, hammersmith-city",940GZZLULRD
+Lebanon Road,tram,940GZZCRLEB
+Leicester Square,"northern, piccadilly",940GZZLULSQ
+Lewisham,dlr,940GZZDLLEW
+Leyton Midland Road,london-overground,910GLEYTNMR
+Leyton,central,940GZZLULYN
+Leytonstone High Road,london-overground,910GLYTNSHR
+Leytonstone,central,940GZZLULYS
+Limehouse,dlr,940GZZDLLIM
+Liverpool Street,"central, circle, hammersmith-city, metropolitan",940GZZLULVT
+Lloyd Park,tram,940GZZCRLOY
+London Bridge,"jubilee, northern",940GZZLULNB
+London City Airport,dlr,940GZZDLLCA
+London Euston,london-overground,910GEUSTON
+London Fields,london-overground,910GLONFLDS
+London Liverpool Street,"london-overground, tfl-rail",910GLIVST
+London Paddington,tfl-rail,910GPADTON
+Loughton,central,940GZZLULGN
+Maida Vale,bakerloo,940GZZLUMVL
+Maidenhead,tfl-rail,910GMDNHEAD
+Manor House,piccadilly,940GZZLUMRH
+Manor Park,tfl-rail,910GMANRPK
+Mansion House,"circle, district",940GZZLUMSH
+Marble Arch,central,940GZZLUMBA
+Maryland,tfl-rail,910GMRYLAND
+Marylebone,bakerloo,940GZZLUMYB
+Merton Park,tram,940GZZCRMTP
+Mile End,"central, district, hammersmith-city",940GZZLUMED
+Mill Hill East,northern,940GZZLUMHL
+Mitcham Junction,tram,940GZZCRMJT
+Mitcham,tram,940GZZCRMCH
+Monument,"circle, district",940GZZLUMMT
+Moor Park,metropolitan,940GZZLUMPK
+Moorgate,"circle, hammersmith-city, metropolitan, northern",940GZZLUMGT
+Morden Road,tram,940GZZCRMDN
+Morden,northern,940GZZLUMDN
+Mornington Crescent,northern,940GZZLUMTC
+Mudchute,dlr,940GZZDLMUD
+Neasden,jubilee,940GZZLUNDN
+New Addington,tram,940GZZCRNWA
+New Cross ELL,london-overground,910GNWCRELL
+New Cross Gate,london-overground,910GNEWXGTE
+Newbury Park,central,940GZZLUNBP
+North Acton,central,940GZZLUNAN
+North Ealing,piccadilly,940GZZLUNEN
+North Greenwich,jubilee,940GZZLUNGW
+North Harrow,metropolitan,940GZZLUNHA
+North Wembley,london-overground,910GNWEMBLY
+North Wembley,bakerloo,940GZZLUNWY
+Northfields,piccadilly,940GZZLUNFD
+Northolt,central,940GZZLUNHT
+Northwick Park,metropolitan,940GZZLUNKP
+Northwood Hills,metropolitan,940GZZLUNWH
+Northwood,metropolitan,940GZZLUNOW
+Norwood Junction,london-overground,910GNORWDJ
+Notting Hill Gate,"central, circle, district",940GZZLUNHG
+Oakwood,piccadilly,940GZZLUOAK
+Old Street,northern,940GZZLUODS
+Osterley,piccadilly,940GZZLUOSY
+Oval,northern,940GZZLUOVL
+Oxford Circus,"bakerloo, central, victoria",940GZZLUOXC
+Paddington (H&C Line),"circle, hammersmith-city",940GZZLUPAH
+Paddington (Circle),"bakerloo, circle, district",940GZZLUPAC
+Park Royal,piccadilly,940GZZLUPKR
+Parsons Green,district,940GZZLUPSG
+Peckham Rye,london-overground,910GPCKHMRY
+Penge West,london-overground,910GPENEW
+Perivale,central,940GZZLUPVL
+Phipps Bridge,tram,940GZZCRPHI
+Piccadilly Circus,"bakerloo, piccadilly",940GZZLUPCC
+Pimlico,victoria,940GZZLUPCO
+Pinner,metropolitan,940GZZLUPNR
+Plaistow,"district, hammersmith-city",940GZZLUPLW
+Pontoon Dock,dlr,940GZZDLPDK
+Poplar,dlr,940GZZDLPOP
+Preston Road,metropolitan,940GZZLUPRD
+Prince Regent,dlr,940GZZDLPRE
+Pudding Mill Lane,dlr,940GZZDLPUD
+Putney Bridge,district,940GZZLUPYB
+Queen's Park,bakerloo,940GZZLUQPS
+Queens Park (London),london-overground,910GQPRK
+Queens Road Peckham,london-overground,910GPCKHMQD
+Queensbury,jubilee,940GZZLUQBY
+Queensway,central,940GZZLUQWY
+Ravenscourt Park,district,940GZZLURVP
+Rayners Lane,"metropolitan, piccadilly",940GZZLURYL
+Reading,tfl-rail,910GRDNGSTN
+Rectory Road,london-overground,910GRCTRYRD
+Redbridge,central,940GZZLURBG
+Reeves Corner,tram,940GZZCRRVC
+Regent's Park,bakerloo,940GZZLURGP
+Richmond (London),london-overground,910GRICHMND
+Richmond,district,940GZZLURMD
+Rickmansworth,metropolitan,940GZZLURKW
+Roding Valley,central,940GZZLURVY
+Romford,"london-overground, tfl-rail",910GROMFORD
+Rotherhithe,london-overground,910GRTHERHI
+Royal Albert,dlr,940GZZDLRAL
+Royal Oak,"circle, hammersmith-city",940GZZLURYO
+Royal Victoria,dlr,940GZZDLRVC
+Ruislip Gardens,central,940GZZLURSG
+Ruislip Manor,"metropolitan, piccadilly",940GZZLURSM
+Ruislip,"metropolitan, piccadilly",940GZZLURSP
+Russell Square,piccadilly,940GZZLURSQ
+Sandilands,tram,940GZZCRSAN
+Seven Kings,tfl-rail,910GSVNKNGS
+Seven Sisters,london-overground,910GSEVNSIS
+Seven Sisters,victoria,940GZZLUSVS
+Shadwell,dlr,940GZZDLSHA
+Shadwell,london-overground,910GSHADWEL
+Shenfield,tfl-rail,910GSHENFLD
+Shepherd's Bush (Central),central,940GZZLUSBC
+Shepherd's Bush Market,"circle, hammersmith-city",940GZZLUSBM
+Shepherds Bush,london-overground,910GSHPDSB
+Shoreditch High Street,london-overground,910GSHRDHST
+Silver Street,london-overground,910GSIVRST
+Sloane Square,"circle, district",940GZZLUSSQ
+Slough,tfl-rail,910GSLOUGH
+Snaresbrook,central,940GZZLUSNB
+South Acton,london-overground,910GSACTON
+South Ealing,piccadilly,940GZZLUSEA
+South Hampstead,london-overground,910GSHMPSTD
+South Harrow,piccadilly,940GZZLUSHH
+South Kensington,"circle, district, piccadilly",940GZZLUSKS
+South Kenton,london-overground,910GSKENTON
+South Kenton,bakerloo,940GZZLUSKT
+South Quay,dlr,940GZZDLSOQ
+South Ruislip,central,940GZZLUSRP
+South Tottenham,london-overground,910GSTOTNHM
+South Wimbledon,northern,940GZZLUSWN
+South Woodford,central,940GZZLUSWF
+Southall,tfl-rail,910GSTHALL
+Southbury,london-overground,910GSBURY
+Southfields,district,940GZZLUSFS
+Southgate,piccadilly,940GZZLUSGT
+Southwark,jubilee,940GZZLUSWK
+St James Street (London),london-overground,910GSTJMSST
+St James's Park,"circle, district",940GZZLUSJP
+St John's Wood,jubilee,940GZZLUSJW
+St Paul's,central,940GZZLUSPU
+Stamford Brook,district,940GZZLUSFB
+Stamford Hill,london-overground,910GSTMFDHL
+Stanmore,jubilee,940GZZLUSTM
+Star Lane,dlr,940GZZDLSTL
+Stepney Green,"district, hammersmith-city",940GZZLUSGN
+Stockwell,"northern, victoria",940GZZLUSKW
+Stoke Newington,london-overground,910GSTKNWNG
+Stonebridge Park,london-overground,910GSTNBGPK
+Stonebridge Park,bakerloo,940GZZLUSGP
+Stratford (London),"london-overground, tfl-rail",910GSTFD
+Stratford,dlr,940GZZDLSTD
+Stratford High Street,dlr,940GZZDLSHS
+Stratford International,dlr,940GZZDLSIT
+Stratford,"central, jubilee",940GZZLUSTD
+Sudbury Hill,piccadilly,940GZZLUSUH
+Sudbury Town,piccadilly,940GZZLUSUT
+Surrey Quays,london-overground,910GSURREYQ
+Swiss Cottage,jubilee,940GZZLUSWC
+Sydenham,london-overground,910GSYDENHM
+Taplow,tfl-rail,910GTAPLOW
+Temple,"circle, district",940GZZLUTMP
+Theobalds Grove,london-overground,910GTHBLDSG
+Therapia Lane,tram,940GZZCRTPA
+Theydon Bois,central,940GZZLUTHB
+Tooting Bec,northern,940GZZLUTBC
+Tooting Broadway,northern,940GZZLUTBY
+Tottenham Court Road,"central, northern",940GZZLUTCR
+Tottenham Hale,victoria,940GZZLUTMH
+Totteridge & Whetstone,northern,940GZZLUTAW
+Tower Gateway,dlr,940GZZDLTWG
+Tower Hill,"circle, district",940GZZLUTWH
+Tufnell Park,northern,940GZZLUTFP
+Turkey Street,london-overground,910GTURKYST
+Turnham Green,"district, piccadilly",940GZZLUTNG
+Turnpike Lane,piccadilly,940GZZLUTPN
+Twyford,tfl-rail,910GTWYFORD
+Upminster Bridge,district,940GZZLUUPB
+Upminster,london-overground,910GUPMNSTR
+Upminster,district,940GZZLUUPM
+Upney,district,940GZZLUUPY
+Upper Holloway,london-overground,910GUPRHLWY
+Upton Park,"district, hammersmith-city",940GZZLUUPK
+Uxbridge,"metropolitan, piccadilly",940GZZLUUXB
+Vauxhall,victoria,940GZZLUVXL
+Victoria,"circle, district, victoria",940GZZLUVIC
+Waddon Marsh,tram,940GZZCRWAD
+Walthamstow Central,london-overground,910GWLTWCEN
+Walthamstow Central,victoria,940GZZLUWWL
+Walthamstow Queens Road,london-overground,910GWLTHQRD
+Wandle Park,tram,940GZZCRWAN
+Wandsworth Road,london-overground,910GWNDSWRD
+Wanstead Park,london-overground,910GWNSTDPK
+Wanstead,central,940GZZLUWSD
+Wapping,london-overground,910GWAPPING
+Warren Street,"northern, victoria",940GZZLUWRR
+Warwick Avenue,bakerloo,940GZZLUWKA
+Waterloo,"bakerloo, jubilee, northern, waterloo-city",940GZZLUWLO
+Watford High Street,london-overground,910GWATFDHS
+Watford Junction,london-overground,910GWATFDJ
+Watford,metropolitan,940GZZLUWAF
+Wellesley Road,tram,940GZZCRWEL
+Wembley Central,london-overground,910GWMBY
+Wembley Central,bakerloo,940GZZLUWYC
+Wembley Park,"jubilee, metropolitan",940GZZLUWYP
+West Acton,central,940GZZLUWTA
+West Brompton,london-overground,910GWBRMPTN
+West Brompton,district,940GZZLUWBN
+West Croydon,london-overground,910GWCROYDN
+West Croydon,tram,940GZZCRWCR
+West Drayton,tfl-rail,910GWDRYTON
+West Ealing,tfl-rail,910GWEALING
+West Finchley,northern,940GZZLUWFN
+West Ham,dlr,940GZZDLWHM
+West Ham,"district, hammersmith-city, jubilee",940GZZLUWHM
+West Hampstead,london-overground,910GWHMDSTD
+West Hampstead,jubilee,940GZZLUWHP
+West Harrow,metropolitan,940GZZLUWHW
+West India Quay,dlr,940GZZDLWIQ
+West Kensington,district,940GZZLUWKN
+West Ruislip,central,940GZZLUWRP
+West Silvertown,dlr,940GZZDLWSV
+Westbourne Park,"circle, hammersmith-city",940GZZLUWSP
+Westferry,dlr,940GZZDLWFE
+Westminster,"circle, district, jubilee",940GZZLUWSM
+White City,central,940GZZLUWCY
+White Hart Lane,london-overground,910GWHHRTLA
+Whitechapel,london-overground,910GWCHAPEL
+Whitechapel,"district, hammersmith-city",940GZZLUWPL
+Willesden Green,"jubilee, metropolitan",940GZZLUWIG
+Willesden Junction,london-overground,910GWLSDJHL
+Willesden Junction,bakerloo,940GZZLUWJN
+Wimbledon Park,district,940GZZLUWIP
+Wimbledon,tram,940GZZCRWMB
+Wimbledon,district,940GZZLUWIM
+Wood Green,piccadilly,940GZZLUWOG
+Wood Lane,"circle, hammersmith-city",940GZZLUWLA
+Wood Street,london-overground,910GWDST
+Woodford,central,940GZZLUWOF
+Woodgrange Park,london-overground,910GWDGRNPK
+Woodside Park,northern,940GZZLUWOP
+Woodside,tram,940GZZCRWOD
+Woolwich Arsenal,dlr,940GZZDLWLA
