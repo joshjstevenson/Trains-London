@@ -4,41 +4,37 @@
 <head>
     <link rel="stylesheet" type="text/css" href="index.css">
     <script src="trains-information.js" defer></script>
-    <script src="stationObjects.js" defer></script>
+    <!-- <script src="stationObjects.js" defer></script> -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Train Times London</title>
 </head>
 
-    <mainText class="mainText">
+   <body>
+
+  <div class="mainText">
     <h1>LONDON TRAINS | ESTIMATED ARRIVALS</h1>
-    </mainText>
+  </div>
 
-<content class="content">
+  <div class="content">
+  <div class="searchBox">
+    <input type="text" id="station" class="custom-input" placeholder="Enter station" />
+    <button onclick="submitSearch()">Search</button>
+  </div>
+</div>
 
-<searchBox class="searchBox">
+  <div class="informationBox" id="results">
+    <!-- Results will show here -->
+  </div>
+</div>
 
-    <searchForm class="searchForm">
-        <label for="station"></label> 
-        <input type="text" class="custom-input" id="station" name="station" placeholder="SEARCH STATIONS"><br>
-     </searchForm>
+  </div>
 
-    <button type="button" id="searchBtn" onclick="submitSearch()" aria-label="search station button">FIND TIMES</button>
+  <div class="message">
+    <h2>real-time results from TransportForLondon</h2>
+  </div>
 
-</searchBox>
-
-
-    <informationBox class="informationBox">
-
-
-    </informationBox>
-
-    
-</content>
-
-<message class="message">
-    <h2>times auto-update every 20s</h2>
-</message>
+</body>
 
 </html>
 

@@ -4,31 +4,55 @@
     color: #FF4800;
 }
 
+input.custom-input {
+  font-family: Arial, Helvetica, sans-serif !important;
+  text-transform: uppercase !important;
+  color: #FF4800 !important;
+}
+
 .mainText {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: auto;
-    margin-top: 25vh;
-    margin-left: 83px;
-}
-
-.content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    height: 0px;
+    margin-top: 350px;
 }
 
 .custom-input {
-    border: 2px solid #FF4800;
-    width: 230px;
-    height: 40px;
-    margin-left: 155px;
-    margin-top: 45px;
-    border-radius: 1px;
-    text-align: center;
-    text-transform: uppercase;
-    display: block;
+  margin-left: 0;
+  margin-top: 0;
+  flex: 1;
+}
+
+.content {
+  display: flex;
+  justify-content: center; /* center horizontally */
+  margin-top: 40px;
+}
+
+.custom-input {
+  border: 2px solid #FF4800;
+  width: 350px;
+  height: 40px;
+  margin-bottom: 40px;
+  border-radius: 1px;
+  text-align: center;
+  text-transform: uppercase;
+  display: block;
+  transition: 0.2s;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: normal;
+  box-sizing: border-box;
+  max-width: 350px;
+  flex: 1;
+}
+
+.custom-input:focus {
+  background-color: black;
+  color: #FF4800;
+  border: 2px solid #FF4800;
+  outline: none;
 }
 
 ::placeholder {
@@ -36,53 +60,125 @@
 }
 
 button {
-    box-sizing: border-box;
-    width: 238px;
-    height: 40px;
-    margin-left: 155px;
-    background-color: transparent;
-    color: #FF4800;
-    border: solid 2px #FF4800;
-    border-radius: 1px;
-    display: block;
-    transition: 0.2s;
-  }
+  box-sizing: border-box;
+  width: 230px;
+  height: 40px;
+  margin-bottom: 40px;
+  margin-left: 50px;
+  background-color: transparent;
+  color: #FF4800;
+  border: solid 2px #FF4800;
+  border-radius: 1px;
+  text-transform: uppercase;
+  display: block;
+  transition: 0.2s;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: normal;
+}
+
 
   button:hover {
-    background-color: #FF4800;
-    color: black;
+  background-color: #FF4800;
+  color: black;
 }
 
   button:active {
-    background-color: transparent;
-    color: #FF4800;
-    border: solid 2px #FF4800;
+  background-color: transparent;
+  color: #FF4800;
+  border: 2px solid #FF4800;
 }
 
-
 .searchBox {
-    flex: 0 0 auto;
-    border: 2px solid transparent;
-    border-radius: 1px;
-    width: 400px;
-    height: 200px;
-    margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* space between input and button */
+  margin-top: 45px;
+  max-width: 600px;
 }
 
 .informationBox {
-    flex: 0 0 auto;
-    border: 2px solid #FF4800;
-    border-radius: 1px;
-    width: 310px;
-    height: 200px;
-    margin: 10px;
-    margin-right: 90px;
+  width: 600px; /* wider for more content */
+  height: 200px;
+  max-height: 400px;
+  overflow-y: auto;
+  border: 2px solid #FF4800;
+  border-radius: 1px;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 0 auto; /* center horizontally */
+  background-color: black;
+  color: #FF4800;
+  transition: 0.2s;
 }
 
 .message {
-    font-size: 5pt;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 520px;
+  font-size: 5pt;
+  margin: 10px auto;
+  margin-left: 380px;
+  text-align: center;
+  transition: 0.2s;
+}
+
+.arrival-card {
+  border: 1px solid #FF4800;
+  padding: 10px;
+  margin: 10px;
+  font-size: 10pt;
+  background-color: black;
+  color: #FF4800;
+  border-radius: 2px;
+  text-align: left;
+  line-height: 1.5;
+  font-weight: normal;
+}
+
+.arrival-card strong {
+  color: #FF4800;
+  font-weight: bold;
+}
+
+/*Copy and pasted methods for scroll bar styling and keeping the browser from
+changing search box colours*/
+
+/* Scrollbar styling for WebKit browsers */
+.informationBox::-webkit-scrollbar {
+  width: 10px; /* scrollbar width */
+}
+
+.informationBox::-webkit-scrollbar-track {
+  background: black; /* track background */
+}
+
+.informationBox::-webkit-scrollbar-thumb {
+  background-color: #FF4800; /* scrollbar handle */
+  border-radius: 5px;
+  border: 2px solid black; /* gives a little separation from the track */
+}
+
+.informationBox::-webkit-scrollbar-thumb:hover {
+  background-color: #ff6a33; /* slightly lighter orange on hover */
+}
+
+/* Optional: Firefox scrollbar styling */
+.informationBox {
+  scrollbar-width: thin;
+  scrollbar-color: #FF4800 black;
+}
+
+/* Remove white/yellow background from autofill */
+input.custom-input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px black inset !important;
+  -webkit-text-fill-color: #FF4800 !important;
+  border: 2px solid #FF4800 !important;
+  caret-color: #FF4800;
+}
+
+/* Also target hover and focus states */
+input.custom-input:-webkit-autofill:focus,
+input.custom-input:-webkit-autofill:hover {
+  -webkit-box-shadow: 0 0 0px 1000px black inset !important;
+  -webkit-text-fill-color: #FF4800 !important;
+  border: 2px solid #FF4800 !important;
 }
